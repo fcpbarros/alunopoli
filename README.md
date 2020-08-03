@@ -17,7 +17,7 @@ This app (**alunopoli**) complements another app called **DATP**
 
 The app starts with the following screen
 
-![screenshot](images/screenStart.jpeg)
+![screenshot](images/screenStart.jpeg = 205x250)
 
 Then the student (**aluno**) can navigate to
 ![screenshot](images/screenSalas.jpeg)
