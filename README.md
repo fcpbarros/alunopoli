@@ -17,11 +17,13 @@ This app (**alunopoli**) complements another app called **DATP**
 
 The app starts with the following screen
 
-![screenshot](images/screenStart.jpeg = 205x250)
+![screenshot](images/screenStart.jpeg)
 
-Then the student (**aluno**) can navigate to
+Then the student (**aluno**) can navigate to Salas (**Rooms**)
 ![screenshot](images/screenSalas.jpeg)
 
+Or the student can navigate to Avisos (**Notices**)
+![screenshot](images/screenAvisos.jpeg)
 
 
 
