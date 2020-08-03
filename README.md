@@ -12,6 +12,7 @@ This app (**alunopoli**) complements another app called **DATP**
 - Linear Layout
 - Constraint Layout
 - Relative Layout
+- Search bar
 
 **How it works**
 
@@ -20,10 +21,16 @@ The app starts with the following screen
 ![screenshot](images/screenStart.jpeg)
 
 Then the student (**aluno**) can navigate to Salas (**Rooms**)
+
+In this activity the students can use the ***search bar*** to look for a specific professor.
+
 ![screenshot](images/screenSalas.jpeg)
 
 Or the student can navigate to Avisos (**Notices**)
+
 ![screenshot](images/screenAvisos.jpeg)
+
+
 
 
 
