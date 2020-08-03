@@ -20,7 +20,7 @@ The app starts with the following screen
 ![screenshot](images/screenStart.jpeg)
 
 Then the student (**aluno**) can navigate to
-![screenshot](images/screenRooms.jpg)
+![screenshot](images/screenSalas.jpg)
 
 
 
