@@ -17,7 +17,7 @@ This app (**alunopoli**) complements another app called **DATP**
 
 The app starts with the following screen
 
-![screenshot](images/screenStart.jpeg)
+![screenshot](images/screenStart.jpeg | width=50 | height=50)
 
 
 
